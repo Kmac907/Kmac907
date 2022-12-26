@@ -7,7 +7,7 @@
 
 
 - <b>Python</b>
-  - [PortScannerV1.0](https://github.com/Kmac907/PortScannerV1.0))
+  - [PortScannerV1.0](https://github.com/Kmac907/PortScannerV1.0)
 
 <h2>📜 Education</h2>
 
