@@ -5,6 +5,10 @@
 - <b>PowerShell</b>
   - [Active Directory Automated User Creation](https://github.com/Kmac907/ActiveDirectoryLab)
 
+
+- <b>Python</b>
+  - [PortScannerV1.0](https://github.com/Kmac907/PortScannerV1.0))
+
 <h2>📜 Education</h2>
 
 - I’m currently working on my Bacherlors in Information Technology
