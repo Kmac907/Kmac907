@@ -11,8 +11,9 @@
 
 <h2>📜 Education</h2>
 
-- I’m currently working on my Bacherlors in Information Technology
-
+- <b>I’m currently working on my Bacherlors in Information Technology<b>
+  - [Western Governors University](https://www.wgu.edu/online-it-degrees/information-technology-bachelors-program.html)
+  
 <h2>🥇 Certifications</h2>
 
 - [Google Certified: IT Support Professional](https://www.credly.com/badges/dff49e92-fcde-4998-97c2-ce185d8f4980/public_url)
