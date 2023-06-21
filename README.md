@@ -22,8 +22,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://github.com/yushi1007/yushi1007/blob/main/images/linkedin.png" />][linkedin]
-[<img align="left" alt="Jonathan Williams | Website" width="22px" src="https://www.flaticon.com/free-icon/www_5602732" />][Website]
+- [My Blog](https://kmac907.tech/)
+- [Linkedin](https://www.linkedin.com/in/kyle-andrew-maclachlan/)
 
 [Website]: https://kmac907.tech/
 [linkedin]: https://www.linkedin.com/in/kyle-andrew-maclachlan/
