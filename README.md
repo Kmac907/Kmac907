@@ -22,7 +22,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://github.com/yushi1007/yushi1007/blob/main/images/linkedin.png)" />][linkedin]
 [<img align="left" alt="Jonathan Williams | Website" width="22px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/facebook/327/globe-with-meridians_1f310.png" />][Website]
 
 [Website]: https://kmac907.tech/
