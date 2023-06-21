@@ -23,7 +23,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://github.com/yushi1007/yushi1007/blob/main/images/linkedin.png" />][linkedin]
-[<img align="left" alt="Jonathan Williams | Website" width="22px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/facebook/327/globe-with-meridians_1f310.png" />][Website]
+[<img align="left" alt="Jonathan Williams | Website" width="22px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/facebook/327/globe-with-meridians_1f310.png](https://www.flaticon.com/free-icon/web_3059997?term=website&page=1&position=12&origin=search&related_id=3059997)https://www.flaticon.com/free-icon/web_3059997?term=website&page=1&position=12&origin=search&related_id=3059997" />][Website]
 
 [Website]: https://kmac907.tech/
 [linkedin]: https://www.linkedin.com/in/kyle-andrew-maclachlan/
