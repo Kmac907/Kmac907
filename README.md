@@ -4,6 +4,7 @@
 
 - <b>PowerShell</b>
   - [Active Directory Automated User Creation](https://github.com/Kmac907/ActiveDirectoryLab)
+  - [RDP Sessoin Checker](https://github.com/Kmac907/RDP-session-checker)
 
 
 - <b>Python</b>
