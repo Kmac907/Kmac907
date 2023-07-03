@@ -5,6 +5,7 @@
 - <b>PowerShell</b>
   - [Active Directory Automated User Creation](https://github.com/Kmac907/ActiveDirectoryLab)
   - [RDP Sessoin Checker](https://github.com/Kmac907/RDP-session-checker)
+  - [Random Password Generator](https://github.com/Kmac907/Random-Password-Generator)
 
 
 - <b>Python</b>
