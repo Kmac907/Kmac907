@@ -27,6 +27,7 @@
 - [Amazon Certified: Cloud Practicioner](https://www.credly.com/badges/f2b64ab9-e03e-47a5-b3bc-a1a57d0c2c30/public_url)
 - [Google Certified: Cybersecurity Professional](https://www.credly.com/badges/8fa1a550-4028-45a0-9753-4ce20b3259e1/public_url)
 - [LPI Certified: Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000567255/bsux2mgyqw)
+- [CompTIA Certified: Network +](https://www.credly.com/badges/e32c6d3d-5852-4641-9a90-b63e9ac20866/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
