@@ -11,7 +11,7 @@
   - [PortScannerV1.0](https://github.com/Kmac907/PortScannerV1.0)
 
 - <b>Microsoft Azure</b>
-  - [Onboard Automator](https://github.com/Kmac907/Onboard-Automator/tree)
+  - [Onboard Automator](https://github.com/Kmac907/Onboard-Automator)
 
 <h2>📜 Education</h2>
 
