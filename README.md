@@ -7,13 +7,15 @@
   - [RDP Sessoin Checker](https://github.com/Kmac907/RDP-session-checker)
   - [Random Password Generator](https://github.com/Kmac907/Random-Password-Generator)
 
-
 - <b>Python</b>
   - [PortScannerV1.0](https://github.com/Kmac907/PortScannerV1.0)
 
+- <b>Microsoft Azure</b>
+  - [Onboard Automator](https://github.com/Kmac907/Onboard-Automator/tree)
+
 <h2>📜 Education</h2>
 
-- <b>I’m currently working on my Bacherlors in Information Technology<b>
+- <b>I’m currently working on my Bacherlors in Network Engineering and Security<b>
   - [Western Governors University](https://www.wgu.edu/online-it-degrees/information-technology-bachelors-program.html)
   
 <h2>🥇 Certifications</h2>
