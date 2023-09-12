@@ -12,6 +12,7 @@
 
 - <b>Microsoft Azure</b>
   - [Onboard Automator](https://github.com/Kmac907/Onboard-Automator)
+  - [BMI Calculator](https://github.com/Kmac907/BMI-Calculator)
 
 <h2>📜 Education</h2>
 
