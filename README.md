@@ -1,4 +1,4 @@
-<h1>Hello, I'm Kyle! <br/><a href="https://github.com/Kmac907">IT Expert</a>, <a href="https://www.linkedin.com/in/kyle-andrew-maclachlan/">Cloud Specialist</a>, <a href="https://kmac907.tech/">Upcoming Cyberseurity Professional</a></h1>
+<h1>Hello, I'm Kyle! </a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 
