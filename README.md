@@ -1,4 +1,4 @@
-<p align="center"><h1>Hello, I'm Kyle! </a></h1>
+<p align="center">"Hello, I'm Kyle, I study technology!"</a></p>
 
 <h2>👨‍💻 Projects:</h2>
 
