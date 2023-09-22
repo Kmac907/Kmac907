@@ -26,7 +26,7 @@
 	
 ##  **Education** 
 - **I'm currently working on my Bachelor's in Network Engineering and Security**
-  - [Western Governors University](https://www.wgu.edu/online-it-degrees/information-technology-bachelors-program.html)
+  - [Western Governors University](https://www.wgu.edu/online-it-degrees/network-engineering-security-bachelors-program.html)
 
 ## Certifications
 - [Google Certified: IT Support Professional](https://www.credly.com/badges/dff49e92-fcde-4998-97c2-ce185d8f4980/public_url)
