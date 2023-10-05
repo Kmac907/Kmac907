@@ -14,7 +14,7 @@
 <br>
 
 - A passionate Self-taught developer
-- Playing CTF's at spare time
+- I practice technologies in my home lab and in the cloud
 - Currently learning Cybersecurity and Cloud Computing
 - Personal website [link](https://kmac907.tech/)
 - I’m currently open for new job opportunities
