@@ -49,6 +49,7 @@
     ![Powershell](https://img.shields.io/badge/Powershell%20-%2314354C.svg?style=for-the-badge&logo=powershell&logoColor=white)
     ![Terminal](https://img.shields.io/badge/BASH-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 <br>   
     
@@ -56,8 +57,7 @@
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
+   
 <br>
 
 - **Technologies**:
