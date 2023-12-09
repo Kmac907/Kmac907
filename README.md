@@ -17,7 +17,6 @@
 - I practice technologies in my home lab and in the cloud
 - Currently learning Cybersecurity and Cloud Computing
 - Personal website [link](https://kmac907.tech/)
-- I’m currently open for new job opportunities
 
 <br>
 
@@ -35,6 +34,7 @@
 - [Google Certified: Cybersecurity Professional](https://www.credly.com/badges/8fa1a550-4028-45a0-9753-4ce20b3259e1/public_url)
 - [LPI Certified: Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000567255/bsux2mgyqw)
 - [CompTIA Certified: Network +](https://www.credly.com/badges/e32c6d3d-5852-4641-9a90-b63e9ac20866/public_url)
+- [CompTIA Certified: Security +](https://www.credly.com/badges/aed50f02-f8db-4154-acfe-d350527ab22f/public_url)
 
 
 <br><br>
