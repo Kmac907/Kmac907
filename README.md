@@ -20,6 +20,7 @@
   - [Western Governors University](https://www.wgu.edu/online-it-degrees/network-engineering-security-bachelors-program.html)
 
 ## <img src="https://media.giphy.com/media/mAIJsyvAi9fPnOSXXn/giphy.gif" width ="35"><b> Certifications</b>
+
 <br> 
 - [Google Certified: IT Support Professional](https://www.credly.com/badges/dff49e92-fcde-4998-97c2-ce185d8f4980/public_url)
 - [Microsoft Certified: Azure Fundamentals (AZ-900)](https://www.credly.com/badges/6294d6b1-3b13-4438-990c-e4d69bfc070f/public_url)
