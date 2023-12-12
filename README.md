@@ -21,7 +21,8 @@
 <br>
 
 	
-##  **Education** 
+## <img src="https://giphy.com/stickers/FanshaweCollege-fanshawe-fanshawecollege-jqqdRrgxFMuXQxTthe.gif" width ="25"><b> Education</b>
+<br> 
 - **I'm currently working on my Bachelor's in Network Engineering and Security**
   - [Western Governors University](https://www.wgu.edu/online-it-degrees/network-engineering-security-bachelors-program.html)
 
