@@ -15,7 +15,9 @@
 - Personal website [link](https://kmac907.tech/)
 	
 ## <img src="https://media.giphy.com/media/jDp7keItP1QzbIbNME/giphy.gif" width ="35"><b> Education</b>
+
 <br> 
+
 - **I'm currently working on my Bachelor's in Network Engineering and Security**
   - [Western Governors University](https://www.wgu.edu/online-it-degrees/network-engineering-security-bachelors-program.html)
 
