@@ -21,7 +21,7 @@
 <br>
 
 	
-## <img src="https://giphy.com/stickers/FanshaweCollege-fanshawe-fanshawecollege-jqqdRrgxFMuXQxTthe.gif" width ="50"><b> Education</b>
+## <img src="https://media.giphy.com/media/jDp7keItP1QzbIbNME/giphy.gif" width ="50"><b> Education</b>
 <br> 
 
 - **I'm currently working on my Bachelor's in Network Engineering and Security**
