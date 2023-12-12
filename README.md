@@ -13,6 +13,17 @@
 - I practice technologies in my home lab and in the cloud
 - Currently learning Cybersecurity and Cloud Computing
 - Personal website [link](https://kmac907.tech/)
+
+## <img src="https://media.giphy.com/media/jDp7keItP1QzbIbNME/giphy.gif" width ="35"><b> Education</b>
+
+<br> 
+
+## Software Development Projects
+- **Learning**
+	- [My Complete Python Journey](https://github.com/Kmac907/Python-Mastery)
+ 	- [Python Data Structures and Algorithms](https://github.com/Kmac907/Python-Mastery/tree/main/Algorithms%20Practice)
+- **My IDE Config**
+	-  [NeoVim](https://github.com/Kmac907/Nvim-Config)
 	
 ## <img src="https://media.giphy.com/media/jDp7keItP1QzbIbNME/giphy.gif" width ="35"><b> Education</b>
 
