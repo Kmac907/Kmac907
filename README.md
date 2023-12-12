@@ -14,11 +14,7 @@
 - Currently learning Cybersecurity and Cloud Computing
 - Personal website [link](https://kmac907.tech/)
 
-## <img src="https://media.giphy.com/media/jDp7keItP1QzbIbNME/giphy.gif" width ="35"><b> Education</b>
-
-<br> 
-
-## Software Development Projects
+## <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width ="35"><b> Projects</b>
 - **Learning**
 	- [My Complete Python Journey](https://github.com/Kmac907/Python-Mastery)
  	- [Python Data Structures and Algorithms](https://github.com/Kmac907/Python-Mastery/tree/main/Algorithms%20Practice)
