@@ -8,7 +8,7 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 25px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 
 <br>
@@ -21,7 +21,7 @@
 <br>
 
 	
-## <img src="https://media.giphy.com/media/jDp7keItP1QzbIbNME/giphy.gif" width ="25"><b> Education</b>
+## <img src="https://media.giphy.com/media/jDp7keItP1QzbIbNME/giphy.gif" width ="35"><b> Education</b>
 <br> 
 
 - **I'm currently working on my Bachelor's in Network Engineering and Security**
