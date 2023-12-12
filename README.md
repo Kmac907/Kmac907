@@ -13,19 +13,14 @@
 - I practice technologies in my home lab and in the cloud
 - Currently learning Cybersecurity and Cloud Computing
 - Personal website [link](https://kmac907.tech/)
-
-<br>
-
 	
 ## <img src="https://media.giphy.com/media/jDp7keItP1QzbIbNME/giphy.gif" width ="35"><b> Education</b>
 <br> 
-
 - **I'm currently working on my Bachelor's in Network Engineering and Security**
   - [Western Governors University](https://www.wgu.edu/online-it-degrees/network-engineering-security-bachelors-program.html)
 
 ## <img src="https://media.giphy.com/media/mAIJsyvAi9fPnOSXXn/giphy.gif" width ="35"><b> Certifications</b>
 <br> 
-
 - [Google Certified: IT Support Professional](https://www.credly.com/badges/dff49e92-fcde-4998-97c2-ce185d8f4980/public_url)
 - [Microsoft Certified: Azure Fundamentals (AZ-900)](https://www.credly.com/badges/6294d6b1-3b13-4438-990c-e4d69bfc070f/public_url)
 - [Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)](https://www.credly.com/badges/b8627f7d-3661-4793-a633-a6bdb319504e/public_url)
@@ -36,30 +31,25 @@
 - [CompTIA Certified: Network +](https://www.credly.com/badges/e32c6d3d-5852-4641-9a90-b63e9ac20866/public_url)
 - [CompTIA Certified: Security +](https://www.credly.com/badges/aed50f02-f8db-4154-acfe-d350527ab22f/public_url)
 
-
 <br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
 <p align="center">
-
+	
 - **Languages**:
     
     ![Powershell](https://img.shields.io/badge/Powershell%20-%2314354C.svg?style=for-the-badge&logo=powershell&logoColor=white)
     ![Terminal](https://img.shields.io/badge/BASH-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>   
-    
+<br>    
 - **Front-End Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   
 <br>
-
 - **Technologies**:
 
     ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=cloudflare&logoColor=white)
@@ -74,17 +64,9 @@
     ![Juniper](https://img.shields.io/badge/Juniper%20JunOS-green?style=for-the-badge&logoColor=white)
     ![Cisco](https://img.shields.io/badge/Cisco%20IOS-blue?style=for-the-badge&logo=cisco&logoColor=white)
     ![ELK](https://img.shields.io/badge/ELk%20Stack-%23F7DF1E.svg?style=for-the-badge&logo=elastic&logoColor=black)
-    ![Fortigate](https://img.shields.io/badge/Fortigate-red?style=for-the-badge&logo=fortinet&logoColor=white)  
+    ![Fortigate](https://img.shields.io/badge/Fortigate-red?style=for-the-badge&logo=fortinet&logoColor=white)
   
-
-</p>
-
 <br>
-<br>
-
-
-<br>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
@@ -95,10 +77,6 @@
 | ------------- | ------------- |
 
 </div>
-
-<br>
-<br>
-<br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
