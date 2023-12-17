@@ -20,6 +20,9 @@
  	- [Data Structures and Algorithms](https://github.com/Kmac907/Data-Structures-and-Algorithms-Practice)
 - **My IDE Config**
 	-  [NeoVim](https://github.com/Kmac907/Nvim-Config)
+- **Python**
+	- [Speedtest Web App](https://github.com/Kmac907/Speedtest-Graph)
+ 	- [BMI Calculator Web App](https://github.com/Kmac907/BMI-Calculator)
 	
 ## <img src="https://media.giphy.com/media/jDp7keItP1QzbIbNME/giphy.gif" width ="35"><b> Education</b>
 
