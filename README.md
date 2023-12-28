@@ -23,6 +23,11 @@
 - **Python**
 	- [Speedtest Web App](https://github.com/Kmac907/Speedtest-Graph)
  	- [BMI Calculator Web App](https://github.com/Kmac907/BMI-Calculator)
+- **Azure**
+	- [Onboard Automator](https://github.com/Kmac907/Onboard-Automator)
+- **Powershell**
+	- [Random Password Generator](https://github.com/Kmac907/Random-Password-Generator)
+	- [RDP Session Checker](https://github.com/Kmac907/RDP-session-checker)
 	
 ## <img src="https://media.giphy.com/media/jDp7keItP1QzbIbNME/giphy.gif" width ="35"><b> Education</b>
 
