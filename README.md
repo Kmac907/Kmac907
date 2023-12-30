@@ -28,28 +28,12 @@
 - **Powershell**
 	- [Random Password Generator](https://github.com/Kmac907/Random-Password-Generator)
 	- [RDP Session Checker](https://github.com/Kmac907/RDP-session-checker)
-	
-## <img src="https://media.giphy.com/media/jDp7keItP1QzbIbNME/giphy.gif" width ="35"><b> Education</b>
+## <img src="https://media.giphy.com/media/mAIJsyvAi9fPnOSXXn/giphy.gif" width ="35"><b> Education</b>	
 
 <br> 
 
 - **I'm currently working on my Bachelor's in Network Engineering and Security**
   - [Western Governors University](https://www.wgu.edu/online-it-degrees/network-engineering-security-bachelors-program.html)
-
-## <img src="https://media.giphy.com/media/mAIJsyvAi9fPnOSXXn/giphy.gif" width ="35"><b> Certifications</b>
-<br> 
-
-- [Google Certified: IT Support Professional](https://www.credly.com/badges/dff49e92-fcde-4998-97c2-ce185d8f4980/public_url)
-- [Microsoft Certified: Azure Fundamentals (AZ-900)](https://www.credly.com/badges/6294d6b1-3b13-4438-990c-e4d69bfc070f/public_url)
-- [Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)](https://www.credly.com/badges/b8627f7d-3661-4793-a633-a6bdb319504e/public_url)
-- [Juniper Certified: Junos Networking Associate (JNCIA-Junos)](https://www.credly.com/badges/0fc9fa56-233a-4788-a8e3-45d9d51d6294/public_url)
-- [Amazon Certified: Cloud Practitioner](https://www.credly.com/badges/f2b64ab9-e03e-47a5-b3bc-a1a57d0c2c30/public_url)
-- [Google Certified: Cybersecurity Professional](https://www.credly.com/badges/8fa1a550-4028-45a0-9753-4ce20b3259e1/public_url)
-- [LPI Certified: Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000567255/bsux2mgyqw)
-- [CompTIA Certified: Network +](https://www.credly.com/badges/e32c6d3d-5852-4641-9a90-b63e9ac20866/public_url)
-- [CompTIA Certified: Security +](https://www.credly.com/badges/aed50f02-f8db-4154-acfe-d350527ab22f/public_url)
-
-<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
