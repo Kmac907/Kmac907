@@ -21,8 +21,9 @@
 - **My IDE Config**
 	-  [NeoVim](https://github.com/Kmac907/Nvim-Config)
 - **Python**
-	- [Speedtest Web App](https://github.com/Kmac907/Speedtest-Graph)
+	- [Speedtest Utility](https://github.com/Kmac907/Speedtest-Graph)
  	- [BMI Calculator Web App](https://github.com/Kmac907/BMI-Calculator)
+  	- [System Monitor Utility](https://github.com/Kmac907/System-Monitor-Utility/)
 - **Azure**
 	- [Onboard Automator](https://github.com/Kmac907/Onboard-Automator)
 - **Powershell**
