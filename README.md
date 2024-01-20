@@ -18,8 +18,6 @@
 - **Learning**
 	- [My Complete Python Journey](https://github.com/Kmac907/Python-Mastery)
  	- [Data Structures and Algorithms](https://github.com/Kmac907/Data-Structures-and-Algorithms-Practice)
-- **My IDE Config**
-	-  [NeoVim](https://github.com/Kmac907/Nvim-Config)
 - **Python**
 	- [Speedtest Utility](https://github.com/Kmac907/Speedtest-Graph)
  	- [BMI Calculator Web App](https://github.com/Kmac907/BMI-Calculator)
