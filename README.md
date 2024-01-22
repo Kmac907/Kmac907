@@ -16,7 +16,6 @@
 
 ## <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width ="35"><b> Projects</b>
 - **Learning**
-	- [My Complete Python Journey](https://github.com/Kmac907/Python-Mastery)
  	- [Data Structures and Algorithms](https://github.com/Kmac907/Data-Structures-and-Algorithms-Practice)
 - **Python**
 	- [Speedtest Utility](https://github.com/Kmac907/Speedtest-Graph)
