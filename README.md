@@ -28,6 +28,8 @@
 - **Powershell**
 	- [Random Password Generator](https://github.com/Kmac907/Random-Password-Generator)
 	- [RDP Session Checker](https://github.com/Kmac907/RDP-session-checker)
+ - **Perl**
+  	- [Minesweeper](https://github.com/Kmac907/Minesweeper)	
 ## <img src="https://media.giphy.com/media/mAIJsyvAi9fPnOSXXn/giphy.gif" width ="35"><b> Education</b>	
 
 <br> 
