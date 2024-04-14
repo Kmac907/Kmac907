@@ -23,7 +23,6 @@
   	- [System Monitor Utility](https://github.com/Kmac907/System-Monitor-Utility/)
   	- [Weather App](https://github.com/Kmac907/Weather-App)
  
-  	- 
 - **Azure**
 	- [Onboard Automator](https://github.com/Kmac907/Onboard-Automator)
 - **Powershell**
