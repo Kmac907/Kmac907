@@ -19,7 +19,6 @@
  	- [Data Structures and Algorithms](https://github.com/Kmac907/Data-Structures-and-Algorithms-Practice)
 - **Python**
 	- [Speedtest Utility](https://github.com/Kmac907/Speedtest-Graph)
- 	- [BMI Calculator Web App](https://github.com/Kmac907/BMI-Calculator)
   	- [System Monitor Utility](https://github.com/Kmac907/System-Monitor-Utility/)
   	- [Weather App Template](https://github.com/Kmac907/Weather-App)
  
