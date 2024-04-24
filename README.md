@@ -20,13 +20,14 @@
 - **Python**
 	- [Speedtest Utility](https://github.com/Kmac907/Speedtest-Graph)
   	- [System Monitor Utility](https://github.com/Kmac907/System-Monitor-Utility/)
-  	- [Weather App Template](https://github.com/Kmac907/Weather-App)
+  	- [Weather App](https://github.com/Kmac907/Weather-App)
  
 - **Azure**
 	- [Onboard Automator](https://github.com/Kmac907/Onboard-Automator)
+
 - **Powershell**
-	- [Random Password Generator](https://github.com/Kmac907/Random-Password-Generator)
-	- [RDP Session Checker](https://github.com/Kmac907/RDP-session-checker)
+	- [File Integrity Monitor](https://github.com/Kmac907/File-Integrity-Monitor)
+		
  - **Perl**
   	- [Minesweeper](https://github.com/Kmac907/Minesweeper)	
 ## <img src="https://media.giphy.com/media/mAIJsyvAi9fPnOSXXn/giphy.gif" width ="35"><b> Education</b>	
