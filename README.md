@@ -21,13 +21,10 @@
 	- [Speedtest Utility](https://github.com/Kmac907/Speedtest-Graph)
   	- [System Monitor Utility](https://github.com/Kmac907/System-Monitor-Utility/)
   	- [Weather App](https://github.com/Kmac907/Weather-App)
- 
 - **Azure**
 	- [Onboard Automator](https://github.com/Kmac907/Onboard-Automator)
-
 - **Powershell**
-	- [File Integrity Monitor](https://github.com/Kmac907/File-Integrity-Monitor)
-		
+	- [File Integrity Monitor](https://github.com/Kmac907/File-Integrity-Monitor)		
  - **Perl**
   	- [Minesweeper](https://github.com/Kmac907/Minesweeper)	
 ## <img src="https://media.giphy.com/media/mAIJsyvAi9fPnOSXXn/giphy.gif" width ="35"><b> Education</b>	
