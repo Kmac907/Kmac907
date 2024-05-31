@@ -23,6 +23,8 @@
   	- [Weather App](https://github.com/Kmac907/Weather-App)
 - **Azure**
 	- [Onboard Automator](https://github.com/Kmac907/Onboard-Automator)
+- **AWS**
+	- [AWS Infrastructure With Terraform](https://github.com/Kmac907/AWS-Infrastructure-with-Terraform)
 - **Powershell**
 	- [File Integrity Monitor](https://github.com/Kmac907/File-Integrity-Monitor)		
  - **Perl**
