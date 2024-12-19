@@ -15,25 +15,24 @@
 - Personal website [link](https://kmac907.tech/)
 
 ## <img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width ="35"><b> Projects</b>
-- **Learning**
- 	- [Data Structures and Algorithms](https://github.com/Kmac907/Data-Structures-and-Algorithms-Practice)
+- **Data Structures and Algorithms Practice**
+ 	- [DS & Algos in Python](https://github.com/Kmac907/Data-Structures-and-Algorithms-Practice)
 - **Python**
 	- [Speedtest Utility](https://github.com/Kmac907/Speedtest-Graph)
   	- [System Monitor Utility](https://github.com/Kmac907/System-Monitor-Utility/)
   	- [Weather App](https://github.com/Kmac907/Weather-App)
+  	- [Windows Registry Editor Tool](https://github.com/Kmac907/Windows-Registry-Tool)
 - **Azure**
 	- [Onboard Automator](https://github.com/Kmac907/Onboard-Automator)
 - **AWS**
 	- [AWS Infrastructure With Terraform](https://github.com/Kmac907/AWS-Infrastructure-with-Terraform)
 - **Powershell**
 	- [File Integrity Monitor](https://github.com/Kmac907/File-Integrity-Monitor)		
- - **Perl**
-  	- [Minesweeper](https://github.com/Kmac907/Minesweeper)	
 ## <img src="https://media.giphy.com/media/mAIJsyvAi9fPnOSXXn/giphy.gif" width ="35"><b> Education</b>	
 
 <br> 
 
-- **I'm currently working on my Bachelor's in Cloud Computing**
+- **I'm currently working on my Bachelor's in Network Engineering and Security**
   - [Western Governors University](https://www.wgu.edu/online-it-degrees/network-engineering-security-bachelors-program.html)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -68,10 +67,7 @@
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
     ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white)
-    ![Juniper](https://img.shields.io/badge/Juniper%20JunOS-green?style=for-the-badge&logoColor=white)
-    ![Cisco](https://img.shields.io/badge/Cisco%20IOS-blue?style=for-the-badge&logo=cisco&logoColor=white)
     ![ELK](https://img.shields.io/badge/ELk%20Stack-%23F7DF1E.svg?style=for-the-badge&logo=elastic&logoColor=black)
-    ![Fortigate](https://img.shields.io/badge/Fortigate-red?style=for-the-badge&logo=fortinet&logoColor=white)
   
 <br>
 
