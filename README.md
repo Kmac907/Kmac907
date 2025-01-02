@@ -22,9 +22,7 @@
   	- [System Monitor Utility](https://github.com/Kmac907/System-Monitor-Utility/)
   	- [Weather App](https://github.com/Kmac907/Weather-App)
   	- [Windows Registry Editor Tool](https://github.com/Kmac907/Windows-Registry-Tool)
-- **Azure**
-	- [Onboard Automator](https://github.com/Kmac907/Onboard-Automator)
-- **AWS**
+- **Terraform**
 	- [AWS Infrastructure With Terraform](https://github.com/Kmac907/AWS-Infrastructure-with-Terraform)
 - **Powershell**
 	- [File Integrity Monitor](https://github.com/Kmac907/File-Integrity-Monitor)		
